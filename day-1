@@ -16,12 +16,17 @@ part 3.
 
 Answer :
 
+
+
 1. DevOPS adalah sebuah metodologi yang diterapkan di Area Development(Dev) dan Operasional(Ops). 
 Tujuan utama penerapan metodologi ini adalah agar kinerja dari masing-masing area dapat bekerja lebih optimal lagi dari berbagai aspek,
 sehingga diharapkan kualitas akhir dari software yang sedang di produksi menjadi lebih baik lagi.
 
 2.-Continuous Integration (CI)
-    adalah salah satu penerapan dari metodologi DevOps, memberikan kemampuan untuk integrasi dari sisi development
-    ke sisi operation secara continuous.
+    adalah salah satu proses di dalam metodologi DevOps, dimana code yang sedang di kerjakan akan di simpan di dalam version control tersentral 
+    seperti github, lalu codingan akan di build dan di tes secara continuous hingga siap menjadi version release.
+    
   -Continuous Delivery (CD)
+    adalah salah satu proses dalam metodologi DevOps, dimana software yang sudah melewati fase CI
+    
   -Continuous Deployment
