@@ -1,1 +1,27 @@
+Question:
+part 1.
+1. Definisi DevOps
+2. Jelaskan 3 lifecycle DevOps yang kalian pahami ( Keyword : Continuous ... )
 
+part 2.
+1. Jelaskan konsep dari HyperVisor!
+2. Apa itu operating system?
+
+part 3.
+1. Install aplikasi Virtualization pilihan kalian
+2. Lakukan instalasi Virtual Machine menggunakan OS Ubuntu Server
+3. Lakukan instalasi OpenSSH
+4. Pastikan ada koneksi internet didalam VM kalian
+5. Pastikan kalian bisa login melalui command 'ssh <username>@<address>
+
+Answer :
+
+1. DevOPS adalah sebuah metodologi yang diterapkan di Area Development(Dev) dan Operasional(Ops). 
+Tujuan utama penerapan metodologi ini adalah agar kinerja dari masing-masing area dapat bekerja lebih optimal lagi dari berbagai aspek,
+sehingga diharapkan kualitas akhir dari software yang sedang di produksi menjadi lebih baik lagi.
+
+2.-Continuous Integration (CI)
+    adalah salah satu penerapan dari metodologi DevOps, memberikan kemampuan untuk integrasi dari sisi development
+    ke sisi operation secara continuous.
+  -Continuous Delivery (CD)
+  -Continuous Deployment
