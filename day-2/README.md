@@ -11,7 +11,12 @@ Answer :
 Disebut shell karena shell menyebunyikan kernel dari kerumitan yang terjadi di dalamnya, sehingga memungkinkan pengguna untuk fokus pada command
 spesifik untuk menjalankan suatu fungsi.
 
-2.
+
+2.![1](https://user-images.githubusercontent.com/91004163/224895143-67cb99ff-3074-4042-9742-c9bb06957c43.png)
+![1 1](https://user-images.githubusercontent.com/91004163/224895154-5243b1f4-35a8-4dce-a27e-7be8ba08ea40.png)
+
+
+
 
 3.![1](https://user-images.githubusercontent.com/91004163/224894288-018cdac6-a8bd-4031-a31b-545c27d56d63.png)
 
