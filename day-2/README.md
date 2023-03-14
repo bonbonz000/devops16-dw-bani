@@ -25,7 +25,7 @@ Keterangan:
 
 2.whoami -  untuk mengecek user yang sedang digunakan
 
-3.ifocnfig -  untuk mengecek detail dari network di mesin
+3.ifconfig -  untuk mengecek detail dari network di mesin
 
 4.echo - untuk menampilkan konten dari  file, bis di gabungkan dengan redirect+add >> untuk menambahkan ke file yang diinginkan.
 
