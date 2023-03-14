@@ -1,4 +1,6 @@
+IMPLEMENTASI NGINX MENGGUNAKAN LOCALTUNNEL DAN NVM
 
+1.NVM install
 ![ch 1](https://user-images.githubusercontent.com/91004163/225031132-c8c8200b-1435-4a4d-a99b-7365b17203ea.png)
 ![ch 2](https://user-images.githubusercontent.com/91004163/225031144-b45331eb-6e88-4da9-bc46-c90a72226865.png)
 ![ch 3](https://user-images.githubusercontent.com/91004163/225031147-6d24ef2e-c72f-4210-b633-0cf2d67ef05b.png)
