@@ -1,8 +1,13 @@
-IMPLEMENTASI NGINX MENGGUNAKAN LOCALTUNNEL DAN NVM
+IMPLEMENTASI NGINX MENGGUNAKAN LOCALTUNNEL DAN NVM (node version manager)
 
 1.NVM install
+
 ![ch 1](https://user-images.githubusercontent.com/91004163/225031132-c8c8200b-1435-4a4d-a99b-7365b17203ea.png)
+
+2.instalasi node versi terbaru dari NVM
 ![ch 2](https://user-images.githubusercontent.com/91004163/225031144-b45331eb-6e88-4da9-bc46-c90a72226865.png)
+
+3.
 ![ch 3](https://user-images.githubusercontent.com/91004163/225031147-6d24ef2e-c72f-4210-b633-0cf2d67ef05b.png)
 ![ch4](https://user-images.githubusercontent.com/91004163/225031180-2351ea65-e70f-46f4-8537-9b7ad6d5d7f1.png)
 ![ch 5](https://user-images.githubusercontent.com/91004163/225031150-dbef14dc-4c41-49ee-9588-0c709da88044.png)
