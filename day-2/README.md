@@ -43,8 +43,9 @@ IP PRIVATE:
     kekurangan :  1.lebih rentan terkena serangan cyber ke seluruh device di jaringan jika konfigurasi kemanan tidak optimal di masing-masing device.
                   2.backup harus di lakukan di setiap device di dalam jaringan
                   
-    kelebihan :
-                  
+    kelebihan :   1.layanan akan tetap tersedia jika salah satu server mati
+                  2.dapat berbagi penggunaan resource/aplikasi spesifik di dalam jaringan.
+                               
     
     
     
