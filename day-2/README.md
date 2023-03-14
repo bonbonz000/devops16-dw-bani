@@ -13,9 +13,14 @@ spesifik untuk menjalankan suatu fungsi.
 
 2.
 
-3.
+3.![1](https://user-images.githubusercontent.com/91004163/224894288-018cdac6-a8bd-4031-a31b-545c27d56d63.png)
+
+![2](https://user-images.githubusercontent.com/91004163/224894304-9432ad5b-101a-4494-8f41-16eeab708c35.png)
+
+![3](https://user-images.githubusercontent.com/91004163/224894312-8e8e4c12-6a91-488f-9004-0deebd00f956.png)
 
 PART 2.
+
 1. Jelaskan perbedaan antara IP Public dan IP Private!
 
 IP PUBLIK :
