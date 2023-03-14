@@ -19,6 +19,14 @@ spesifik untuk menjalankan suatu fungsi.
 
 ![3](https://user-images.githubusercontent.com/91004163/224894312-8e8e4c12-6a91-488f-9004-0deebd00f956.png)
 
+Keterangan:
+
+1.pwd(print working directory) - untuk mengecek current directory
+2.whoami -  untuk mengecek user yang sedang digunakan
+3.ifocnfig -  untuk mengecek detail dari network di mesin
+4.echo - untuk menampilkan konten dari  file, bis di gabungkan dengan redirect+add >> untuk menambahkan ke file yang diinginkan.
+5.less -  untuk membuka file spesifik ditambah dengan fungsi navigasi
+
 PART 2.
 
 1. Jelaskan perbedaan antara IP Public dan IP Private!
