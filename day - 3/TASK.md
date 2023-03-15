@@ -1,6 +1,8 @@
+PART 1.
+
 Question:
 
-PART 1.
+
 1. Install NodeJS di server kalian dan gunakan versi 10.24.1
 2. Jalankan aplikasi Dumbflix-frontend
 
@@ -28,3 +30,14 @@ Answer:
 Notes : Error (?)
 
 ![3](https://user-images.githubusercontent.com/91004163/225332529-0bdd9e92-4430-4953-a7d1-7700196d097f.png)
+
+
+PART 2.
+
+Question:
+
+
+1. Install Golang di server kalian menggunakan versi dari ebook yang ada!
+2. Jalankan sebuah aplikasi yang memunculkan teks "Halo, saya <isi nama kalian>!"
+
+Answer:
