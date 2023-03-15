@@ -66,4 +66,24 @@ Answer:
 5.run aplikasi golang
   
 ![go 3](https://user-images.githubusercontent.com/91004163/225352519-dd26d83f-0da3-4b1c-8d9a-6d5ea4f19d66.png)
+  
+  
+  
+  
+  PART 3.
+
+Question:
+
+
+1. Tunjukkan apakah instalasi python3 sudah ada dan install package manager pip!
+2. Jalankan aplikasi menggunakan flask dengan teks berisi "Halo Dumbways!"
+
+Answer:
+  
+![py 1](https://user-images.githubusercontent.com/91004163/225367490-9eeefbc3-fdcf-4cee-9798-40f652de5171.png)
+![py 2](https://user-images.githubusercontent.com/91004163/225367498-42be8b61-c638-4941-8675-30f08cbccaf3.png)
+
+
+![py 3](https://user-images.githubusercontent.com/91004163/225370422-c6fc0449-bda3-4083-b539-dfbb8fc15ea4.png)
+![py 4](https://user-images.githubusercontent.com/91004163/225370426-4cea80d4-b73c-471d-899a-78029f15db93.png)
 
