@@ -32,6 +32,9 @@ Notes : Error (?)
 ![3](https://user-images.githubusercontent.com/91004163/225332529-0bdd9e92-4430-4953-a7d1-7700196d097f.png)
 
 
+
+
+
 PART 2.
 
 Question:
@@ -41,3 +44,26 @@ Question:
 2. Jalankan sebuah aplikasi yang memunculkan teks "Halo, saya <isi nama kalian>!"
 
 Answer:
+  
+ 1.instalasi golang menggunakan wget 
+ 
+ ![go 1](https://user-images.githubusercontent.com/91004163/225352503-5eb489b4-b074-441a-9753-c3cb8136cfd5.png) 
+ 
+ 2.remove versi golang sebelumnya
+ 
+![go 1 1](https://user-images.githubusercontent.com/91004163/225352492-b0680812-6acb-41c6-842e-a991e201dcc9.png)
+
+ 3.menambahkan path pada .bashrc
+
+  
+![go 1 2](https://user-images.githubusercontent.com/91004163/225352498-f1cbbb28-ae00-419c-bdc8-15fcfa8d0372.png)
+![go 1 3](https://user-images.githubusercontent.com/91004163/225352501-a3cf95c5-d067-4c35-b8dd-fb582f79201f.png)
+
+4.build aplikasi golang
+  
+![go 2](https://user-images.githubusercontent.com/91004163/225352512-ace6bb97-0aa4-48eb-a915-386518fea3f2.png)
+  
+5.run aplikasi golang
+  
+![go 3](https://user-images.githubusercontent.com/91004163/225352519-dd26d83f-0da3-4b1c-8d9a-6d5ea4f19d66.png)
+
