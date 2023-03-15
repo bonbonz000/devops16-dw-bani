@@ -79,11 +79,25 @@ Question:
 2. Jalankan aplikasi menggunakan flask dengan teks berisi "Halo Dumbways!"
 
 Answer:
+
+ 1.cek versi 
   
 ![py 1](https://user-images.githubusercontent.com/91004163/225367490-9eeefbc3-fdcf-4cee-9798-40f652de5171.png)
+  
+2.install pip
+  
 ![py 2](https://user-images.githubusercontent.com/91004163/225367498-42be8b61-c638-4941-8675-30f08cbccaf3.png)
 
+3.install flask
 
 ![py 3](https://user-images.githubusercontent.com/91004163/225370422-c6fc0449-bda3-4083-b539-dfbb8fc15ea4.png)
+  
+4.setup ip host
+  
+![py 3 1](https://user-images.githubusercontent.com/91004163/225372000-a5686e86-78db-4afd-acbc-71f9d88a667b.png)
+
+5.open aplikasi dari browser. port 5000
+  
 ![py 4](https://user-images.githubusercontent.com/91004163/225370426-4cea80d4-b73c-471d-899a-78029f15db93.png)
+  
 
