@@ -44,7 +44,11 @@ NODEJS
 
 pembuatan repository nodeJS
 
+![node 1](https://user-images.githubusercontent.com/91004163/225805403-eaad5f0d-a9c0-42e3-b264-eb1fcee284e5.png)
 
 
 
 branch sudah dibentuk
+
+![node 2](https://user-images.githubusercontent.com/91004163/225805413-44bd01c5-5884-4858-a3bb-2d50d02cd109.png)
+
