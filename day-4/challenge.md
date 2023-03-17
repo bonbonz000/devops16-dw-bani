@@ -28,6 +28,7 @@ branch baru development, staging dan production sudah terbentuk
 
 ![ch py 1](https://user-images.githubusercontent.com/91004163/225696041-64c71789-6f99-4c42-84de-28a1a03b33a7.png)
 
+
 GOLANG
 
 pembuatan repository golang
@@ -39,4 +40,11 @@ branch sudah di bentuk
 ![ch go 2](https://user-images.githubusercontent.com/91004163/225696119-268dd025-a7df-435b-a1d1-02d13a899330.png)
 
 
+NODEJS
 
+pembuatan repository nodeJS
+
+
+
+
+branch sudah dibentuk
