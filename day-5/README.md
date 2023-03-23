@@ -6,7 +6,8 @@ Question :
 
 Answer :
 
-1.cat (concatenate) - berfungsi untuk display konten dari satu atau beberapa file 
+1.
+A.cat (concatenate) - berfungsi untuk display konten dari satu atau beberapa file 
 tanpa harus editing full menggunakan tools seperti nano, vim. fungsi lainnya bisa 
 untuk memasukan/menimpa text baru menggunakan ">" atau menambahkan text baru dengan ">>".
 bisa digunakan juga untuk mengggabungkan dua file kedalam satu file baru.
@@ -17,7 +18,7 @@ Example :
 	addition new line |  cat >> nama_file
 	merge | cat file1 file1 > file_baru
 
-sed (stream editor) - berfungsi untuk melakukan manipulasi pada string/text pada 
+B.sed (stream editor) - berfungsi untuk melakukan manipulasi pada string/text pada 
 sebuah file.
 
 example :
@@ -27,19 +28,19 @@ keterangan :
 	 -s menandakan search
 	 -g menandakan penerapan global
 
-grep - berfungsi untuk melakukan pencarian spesifik di dalam sebuah file.
+C.grep - berfungsi untuk melakukan pencarian spesifik di dalam sebuah file.
 
 example ;
 	pencarian string | grep -i nasbung_nastak nama_file
 	penghitungan total string ditemukan | grep -i -c sundul_gans nama_file
 
-sort - berfungsi untuk melakukan sortir terhadap suatu file.
+D.sort - berfungsi untuk melakukan sortir terhadap suatu file.
 
 example : 
 	sorting default(ascending, angka terlebih dahulu) | sort nama_file
 	sorting reverse (descending) | sort -r nama_file
 
-echo - untuk print out string dari sebuah file, atau bis digunakan untuk addition 
+E.echo - untuk print out string dari sebuah file, atau bis digunakan untuk addition 
 replace atau addition new line string baru terhadap suatu file
 
 example : 
