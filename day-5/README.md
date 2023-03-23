@@ -119,3 +119,20 @@ TIME+ - waktu dari prosesor yang di gunakan oleh proses
 Command - perintah apa yang sedang di jalankan.
 
 f1 - digunakan untuk melihat help
+
+
+2.CPU
+
+![3](https://user-images.githubusercontent.com/91004163/227313984-0c503f3e-d2e9-4d91-880d-c37ea2a56041.png)
+
+MEMORY
+
+![4](https://user-images.githubusercontent.com/91004163/227314005-4072a95e-8e72-4b97-a978-7fe99d71062e.png)
+
+
+
+NETWORK
+
+![5](https://user-images.githubusercontent.com/91004163/227314028-97013a11-cd66-4995-867c-b08c705b804e.png)
+
+
