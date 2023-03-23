@@ -71,6 +71,8 @@ Answer :
 1.htop adalah tools untuk monitoring resource seperti cpu, memory, swap yang ada di 
 perangkat yang memiliki sistem operasi linux.
 
+![2](https://user-images.githubusercontent.com/91004163/227282621-5601af1e-d562-47e6-91a8-0d3ad7e4111c.png)
+
 
 
 keterangan
