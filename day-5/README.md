@@ -48,6 +48,10 @@ example :
 	addition replace | echo "geser bang sempit" > nama_file
 	addition add line | echo "geser bang sempit" >> nama_file
 
-2.custom script
+2.custom script creation
+
+![0](https://user-images.githubusercontent.com/91004163/227274212-08b66322-33a3-47eb-a182-204848b640de.png)
+
+execute script (make sure sudo because UFW)
 
 ![1](https://user-images.githubusercontent.com/91004163/227273943-4e1ff9f0-99ab-439d-88a0-5bc8525e121c.png)
