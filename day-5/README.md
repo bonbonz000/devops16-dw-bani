@@ -48,3 +48,6 @@ example :
 	addition replace | echo "geser bang sempit" > nama_file
 	addition add line | echo "geser bang sempit" >> nama_file
 
+2.custom script
+
+![1](https://user-images.githubusercontent.com/91004163/227273943-4e1ff9f0-99ab-439d-88a0-5bc8525e121c.png)
