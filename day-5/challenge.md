@@ -15,3 +15,10 @@ execute script
 
 
 ![ch2](https://user-images.githubusercontent.com/91004163/227318034-2d5a66de-8435-4f29-bb54-94dc8f16d172.png)
+
+
+2.dumbflix with ufw allow port 3000
+
+![ch2](https://user-images.githubusercontent.com/91004163/227320599-9f38e199-fb03-4110-b394-b685bc62de9c.png)\
+
+
