@@ -6,7 +6,9 @@ Question :
 
 Answer :
 
-1.
+1.second VM
+
+![0](https://user-images.githubusercontent.com/91004163/227363245-182632db-796d-471e-ba5a-94e8276770df.png)
 
 
 2.dumbflix di dalam pm2
