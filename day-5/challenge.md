@@ -11,7 +11,7 @@ answer :
 
 
 
-execure script
+execute script
 
 
 ![ch2](https://user-images.githubusercontent.com/91004163/227318034-2d5a66de-8435-4f29-bb54-94dc8f16d172.png)
