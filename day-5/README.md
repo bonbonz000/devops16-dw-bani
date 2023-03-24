@@ -121,7 +121,7 @@ Command - perintah apa yang sedang di jalankan.
 f1 - digunakan untuk melihat help
 
 
-2.CPU
+2.NMON
 
 ![3](https://user-images.githubusercontent.com/91004163/227313984-0c503f3e-d2e9-4d91-880d-c37ea2a56041.png)
 
