@@ -19,7 +19,8 @@ execute script
 
 2.dumbflix with ufw allow port 3000
 
-![ch2](https://user-images.githubusercontent.com/91004163/227320599-9f38e199-fb03-4110-b394-b685bc62de9c.png)\
+![ch 3](https://user-images.githubusercontent.com/91004163/227437187-9bdf9527-88c9-4998-8b2f-3125612d59e0.png)
+
 
 
 ![ch 4](https://user-images.githubusercontent.com/91004163/227321135-7839aa6a-6a05-4316-b571-34929691b33f.png)
