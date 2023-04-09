@@ -48,22 +48,6 @@ domain be and fe
 ![clonned wayshub](https://user-images.githubusercontent.com/91004163/230774253-b8b908ea-5fa2-42ed-a3fd-2482e0ac3a58.png)
 
 
-Deploy in PM2 with ecosystem simple
-
-FE config
-
-![ecosystem frontend config](https://user-images.githubusercontent.com/91004163/230774370-4d705823-bfd4-4853-b359-9c4ddaa036fc.png)
-
-
-BE config
-
-![backend ecosystem config](https://user-images.githubusercontent.com/91004163/230774376-a1b80bfa-94cc-4b7f-b361-96425e63f658.png)
-
-run with pm2
-
-![run with pm2 ecosystem simple](https://user-images.githubusercontent.com/91004163/230774335-5ae8fbc1-ecb7-457f-956c-767f8592c179.png)
-
-
 3.mysql database install
 
 
@@ -83,6 +67,23 @@ backend database configuration in : config/config.json
 
 
 ![database config backend - appserver](https://user-images.githubusercontent.com/91004163/230776033-818a88a2-0cfe-4696-a54c-fdfd9e5dd738.png)
+
+
+Deploy in PM2 with ecosystem simple
+
+FE config
+
+![ecosystem frontend config](https://user-images.githubusercontent.com/91004163/230774370-4d705823-bfd4-4853-b359-9c4ddaa036fc.png)
+
+
+BE config
+
+![backend ecosystem config](https://user-images.githubusercontent.com/91004163/230774376-a1b80bfa-94cc-4b7f-b361-96425e63f658.png)
+
+run with pm2
+
+![run with pm2 ecosystem simple](https://user-images.githubusercontent.com/91004163/230774335-5ae8fbc1-ecb7-457f-956c-767f8592c179.png)
+
 
 
 PART 2
