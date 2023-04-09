@@ -138,3 +138,12 @@ Tasks :
 
 Answer :
 
+1.
+
+2.
+![snapd install](https://user-images.githubusercontent.com/91004163/230786763-95b1b6e6-a44a-4ffa-8c6c-a07dfd15d585.png)
+![install certbot](https://user-images.githubusercontent.com/91004163/230786764-a7029b39-7193-4e25-86cf-c8f0ff732aa0.png)
+![create link certbot](https://user-images.githubusercontent.com/91004163/230786772-14d4b32d-2f71-4d1d-8d2d-616be0d1375c.png)
+![generate certbot](https://user-images.githubusercontent.com/91004163/230786779-79a7c87b-65ee-4239-96dc-29934799d9c6.png)
+
+
