@@ -56,6 +56,15 @@ run with pm2
 
 ![mysql_secure_installation](https://user-images.githubusercontent.com/91004163/230774296-235710f0-4b34-4ea0-b3cf-2fa72514fac4.png)
 
+db wayshub
+
+![db_wayshub](https://user-images.githubusercontent.com/91004163/230774481-d7049afd-bfcd-450f-883e-2f392864326b.png)
+
+frontend BaseURL configuration in : src/config/api.js
+
+
+backend database configuration in : config/config.json
+
 
 PART 2
 
