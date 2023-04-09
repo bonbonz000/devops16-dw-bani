@@ -75,8 +75,8 @@ db wayshub
 
 frontend BaseURL configuration in : src/config/api.js
 
+![baseurl config Frontend - appserver](https://user-images.githubusercontent.com/91004163/230782987-543e1120-f941-4516-a763-5dbdc140ae28.png)
 
-![baseurl config Frontend - appserver](https://user-images.githubusercontent.com/91004163/230776025-64615d9a-f563-4f2a-840b-82fc1991e81f.png)
 
 
 backend database configuration in : config/config.json
