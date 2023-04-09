@@ -68,6 +68,25 @@ backend database configuration in : config/config.json
 
 ![database config backend - appserver](https://user-images.githubusercontent.com/91004163/230776033-818a88a2-0cfe-4696-a54c-fdfd9e5dd738.png)
 
+install npm sequelize :
+
+![1](https://user-images.githubusercontent.com/91004163/230799544-0b9b3e7a-8127-418a-87bd-ceb309d154e7.png)
+
+
+sequelize db:create
+
+![2](https://user-images.githubusercontent.com/91004163/230799548-44873b1f-8a3a-4d26-82be-c5eb5182cd42.png)
+
+
+sequelize db:migrate
+
+![3](https://user-images.githubusercontent.com/91004163/230799555-7272702d-4fc3-4617-9dc6-8b9a426a90d5.png)
+
+show databases
+
+![4](https://user-images.githubusercontent.com/91004163/230799566-3fb7f7c1-eced-41a6-b8e9-658c615e4474.png)
+
+
 
 Deploy in PM2 with ecosystem simple
 
