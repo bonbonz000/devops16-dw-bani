@@ -53,10 +53,6 @@ domain be and fe
 
 ![mysql_secure_installation](https://user-images.githubusercontent.com/91004163/230774296-235710f0-4b34-4ea0-b3cf-2fa72514fac4.png)
 
-db wayshub
-
-![db_wayshub](https://user-images.githubusercontent.com/91004163/230774481-d7049afd-bfcd-450f-883e-2f392864326b.png)
-
 frontend BaseURL configuration in : src/config/api.js
 
 ![baseurl config Frontend - appserver](https://user-images.githubusercontent.com/91004163/230782987-543e1120-f941-4516-a763-5dbdc140ae28.png)
