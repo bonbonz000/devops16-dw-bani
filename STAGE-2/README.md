@@ -117,6 +117,12 @@ reverse proxy config in : /etx/nginx/dumbways/
 ![rproxy config](https://user-images.githubusercontent.com/91004163/230775164-6e16e140-54ec-423a-901e-fd6962a549de.png)
 
 
+include in nginx.conf
+
+![nginx include in nginx conf](https://user-images.githubusercontent.com/91004163/230776340-05d4641a-2353-4b53-8104-d136455f61da.png)
+
+
+
 
 CHALLENGE
 
