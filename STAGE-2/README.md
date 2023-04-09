@@ -25,6 +25,22 @@ Tasks :
 
 Answer :
 
+APPSERVER idcloudhost
+
+![appserv](https://user-images.githubusercontent.com/91004163/230774957-b20a4de3-20ca-42e8-99de-9d2be091dbe4.png)
+
+Gateway server idcloudhost
+
+![gatewayserv](https://user-images.githubusercontent.com/91004163/230774965-e989693a-3877-498d-8fa7-ce53d5ab2e5c.png)
+
+domain be and fe
+
+![domain be dan fe](https://user-images.githubusercontent.com/91004163/230774969-539c65c2-8231-4f7b-910e-314378f2f4f5.png)
+
+
+
+
+
 1.NODE VERSI 14 
 
 ![node v 14](https://user-images.githubusercontent.com/91004163/230774229-83cb9c05-8a7d-44cb-99a4-ec3246873442.png)
@@ -48,7 +64,6 @@ BE config
 run with pm2
 
 ![run with pm2 ecosystem simple](https://user-images.githubusercontent.com/91004163/230774335-5ae8fbc1-ecb7-457f-956c-767f8592c179.png)
-
 
 
 3.mysql database install
