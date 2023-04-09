@@ -35,9 +35,7 @@ Gateway server idcloudhost
 
 domain be and fe
 
-![domain be dan fe](https://user-images.githubusercontent.com/91004163/230774969-539c65c2-8231-4f7b-910e-314378f2f4f5.png)
-
-
+![domain be dan fe](https://user-images.githubusercontent.com/91004163/230775288-03c2e12c-6b08-4ee1-83fc-3e5c99756fd1.png)
 
 
 
@@ -103,6 +101,14 @@ Tasks :
 
 
 Answer:
+
+nginx installation
+
+![gateway server - nginx install](https://user-images.githubusercontent.com/91004163/230775130-42673df0-bc55-4df1-ad2d-5cf8fc209231.png)
+
+reverse proxy config in : /etx/nginx/dumbways/
+
+![rproxy config](https://user-images.githubusercontent.com/91004163/230775164-6e16e140-54ec-423a-901e-fd6962a549de.png)
 
 
 
