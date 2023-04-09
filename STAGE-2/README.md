@@ -122,7 +122,9 @@ include in nginx.conf
 
 ![nginx include in nginx conf](https://user-images.githubusercontent.com/91004163/230776340-05d4641a-2353-4b53-8104-d136455f61da.png)
 
+wayshub frontend from domain name
 
+![wayshub FE from domain](https://user-images.githubusercontent.com/91004163/230797829-277921ff-b5c0-4123-a6ae-58af192101dc.png)
 
 
 CHALLENGE
@@ -141,9 +143,20 @@ Answer :
 1.
 
 2.
+snapd install
+
 ![snapd install](https://user-images.githubusercontent.com/91004163/230786763-95b1b6e6-a44a-4ffa-8c6c-a07dfd15d585.png)
+
+certbot install
+
 ![install certbot](https://user-images.githubusercontent.com/91004163/230786764-a7029b39-7193-4e25-86cf-c8f0ff732aa0.png)
+
+create shortcut link
+
 ![create link certbot](https://user-images.githubusercontent.com/91004163/230786772-14d4b32d-2f71-4d1d-8d2d-616be0d1375c.png)
+
+install certbot 
+
 ![generate certbot](https://user-images.githubusercontent.com/91004163/230786779-79a7c87b-65ee-4239-96dc-29934799d9c6.png)
 
 
