@@ -108,6 +108,11 @@ run with pm2
 ![run with pm2 ecosystem simple](https://user-images.githubusercontent.com/91004163/230774335-5ae8fbc1-ecb7-457f-956c-767f8592c179.png)
 
 
+register and login to account
+
+
+![fix 4](https://user-images.githubusercontent.com/91004163/230808487-e4484621-0578-4450-9877-5d25e739f81b.png)
+
 
 PART 2
 
