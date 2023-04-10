@@ -55,7 +55,8 @@ domain be and fe
 
 frontend BaseURL configuration in : src/config/api.js
 
-![baseurl config Frontend - appserver](https://user-images.githubusercontent.com/91004163/230782987-543e1120-f941-4516-a763-5dbdc140ae28.png)
+![fix](https://user-images.githubusercontent.com/91004163/230806785-6a49f589-a2f5-42c4-a9a9-417116750d52.png)
+
 
 
 
