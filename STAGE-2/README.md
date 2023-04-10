@@ -66,16 +66,6 @@ grant privileges on bon
 ![fix 2](https://user-images.githubusercontent.com/91004163/230807806-eb1ca7a0-8139-43d2-8b69-d3eca5e86afb.jpg)
 
 
-frontend BaseURL configuration in : src/config/api.js
-
-![fix](https://user-images.githubusercontent.com/91004163/230806785-6a49f589-a2f5-42c4-a9a9-417116750d52.png)
-
-
-backend database configuration in : config/config.json
-
-
-![database config backend - appserver](https://user-images.githubusercontent.com/91004163/230776033-818a88a2-0cfe-4696-a54c-fdfd9e5dd738.png)
-
 install npm sequelize :
 
 ![1](https://user-images.githubusercontent.com/91004163/230799544-0b9b3e7a-8127-418a-87bd-ceb309d154e7.png)
@@ -94,6 +84,16 @@ show databases
 
 ![4](https://user-images.githubusercontent.com/91004163/230799566-3fb7f7c1-eced-41a6-b8e9-658c615e4474.png)
 
+
+frontend BaseURL configuration in : src/config/api.js
+
+![fix](https://user-images.githubusercontent.com/91004163/230806785-6a49f589-a2f5-42c4-a9a9-417116750d52.png)
+
+
+backend database configuration in : config/config.json
+
+
+![database config backend - appserver](https://user-images.githubusercontent.com/91004163/230776033-818a88a2-0cfe-4696-a54c-fdfd9e5dd738.png)
 
 
 Deploy in PM2 with ecosystem simple
