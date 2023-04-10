@@ -50,21 +50,25 @@ domain be and fe
 
 3.mysql database install
 
+alter user to allow the root accept new password
+
+
+![fix5](https://user-images.githubusercontent.com/91004163/230868384-2a984c32-4130-4f2b-a590-5900c6a62746.png)
+
+
+secure installation mysql
 
 ![mysql_secure_installation](https://user-images.githubusercontent.com/91004163/230774296-235710f0-4b34-4ea0-b3cf-2fa72514fac4.png)
+
 
 grant privileges on bon
 
 ![fix 2](https://user-images.githubusercontent.com/91004163/230807806-eb1ca7a0-8139-43d2-8b69-d3eca5e86afb.jpg)
 
 
-
-
 frontend BaseURL configuration in : src/config/api.js
 
 ![fix](https://user-images.githubusercontent.com/91004163/230806785-6a49f589-a2f5-42c4-a9a9-417116750d52.png)
-
-
 
 
 backend database configuration in : config/config.json
