@@ -159,6 +159,11 @@ wayshub frontend from domain name
 ![wayshub FE from domain](https://user-images.githubusercontent.com/91004163/230797829-277921ff-b5c0-4123-a6ae-58af192101dc.png)
 
 
+wayshub backend from domain name
+
+![wayshub BE from public ip](https://user-images.githubusercontent.com/91004163/230870078-27241657-50c6-462e-b57a-b9138c0bff7a.png)
+
+
 CHALLENGE
 
 TASK :
@@ -172,9 +177,6 @@ Tasks :
 
 Answer :
 
-1.
-
-2.
 snapd install
 
 ![snapd install](https://user-images.githubusercontent.com/91004163/230786763-95b1b6e6-a44a-4ffa-8c6c-a07dfd15d585.png)
@@ -191,4 +193,12 @@ install certbot
 
 ![generate certbot](https://user-images.githubusercontent.com/91004163/230786779-79a7c87b-65ee-4239-96dc-29934799d9c6.png)
 
+success certbot install 
+
+![success certbot](https://user-images.githubusercontent.com/91004163/230871128-dad31ec2-30ea-40b4-b67b-964086f6e514.png)
+
+
+access FE and BE from https
+
+![access with https fe and be](https://user-images.githubusercontent.com/91004163/230871826-ca70d45f-83b4-4446-95f5-fddb835d0c76.png)
 
