@@ -5,10 +5,13 @@ Task:
 Gunakan domain dengan SSL :
      - Node-exporter
 node-exporter.<nama>.studentdumbways.my.id
+     
      -  Prometheus
 prom.<nama>.studentdumbways.my.id
+     
      -  Grafana
 dashboard.<nama>.studentdumbways.my.id
+     
      -  App frontend
 <nama>.studentdumbways.my.id
 
@@ -31,9 +34,14 @@ Buat 3 VM dengan *Terraform* di IDCloudHost dengan spesifikasi sebagai berikut :
 
 Answer:
 
-     ![2](https://user-images.githubusercontent.com/91004163/236704040-b7632f26-b4ce-46d3-9f15-303c8fa7fdb3.PNG)
+Terraform config
+     
+![2](https://user-images.githubusercontent.com/91004163/236704086-196152eb-a091-4642-a5d5-e19f252ddfb3.PNG)
 
-     ![1](https://user-images.githubusercontent.com/91004163/236704017-23c53ae2-0cf7-4300-b8c4-13616fb07023.PNG)
+
+ Server created
+     
+![1](https://user-images.githubusercontent.com/91004163/236704084-e8e70950-48e6-4e1e-a891-4ba88764f234.PNG)
 
      
      
