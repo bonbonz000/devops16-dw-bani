@@ -5,14 +5,11 @@ Task:
 Gunakan domain dengan SSL :
      - Node-exporter
 node-exporter.<nama>.studentdumbways.my.id
-     
-     -  Prometheus
+        -  Prometheus
 prom.<nama>.studentdumbways.my.id
-     
-     -  Grafana
+         -  Grafana
 dashboard.<nama>.studentdumbways.my.id
-     
-     -  App frontend
+          -  App frontend
 <nama>.studentdumbways.my.id
 
 Answer:
