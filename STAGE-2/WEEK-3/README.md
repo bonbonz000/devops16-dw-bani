@@ -23,14 +23,17 @@ Buat 3 VM dengan *Terraform* di IDCloudHost dengan spesifikasi sebagai berikut :
    - Gateway : 1 CPU, 1 GB RAM
    - Monitoring : 2 CPU, 2GB RAM
     Storage : 20 GB
-
-Tasks :
+     
 - Buatlah script Terraform untuk membuat 3 server sesuai dengan kebutuhan
 - Pastikan semua server mendapatkan Floating IP (IP Public)
 - OS yang digunakan : Ubuntu 20.04
 
 
 Answer:
+
+     ![2](https://user-images.githubusercontent.com/91004163/236704040-b7632f26-b4ce-46d3-9f15-303c8fa7fdb3.PNG)
+
+     ![1](https://user-images.githubusercontent.com/91004163/236704017-23c53ae2-0cf7-4300-b8c4-13616fb07023.PNG)
 
      
      
