@@ -32,3 +32,24 @@ Tasks :
 
 Answer:
 
+     
+     
+Ansible
+     
+Tasks :
+- Setup inventory dan ansible menggunakan SSH key
+- Buatlah Ansible Playbook :
+
+[appserver]
+- Instalasi docker dan menjalankan aplikasi frontend week 2
+- User baru (gunakan user barunya untuk semua konfigurasi ansible)
+
+[gateway]
+- Instalasi nginx
+- konfigurasi nginx dan reverse proxy sampai bisa menggunakan domain
+- User baru (gunakan user barunya untuk semua konfigurasi ansible)
+     
+Answer :
+     
+     
+     
