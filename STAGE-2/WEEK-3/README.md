@@ -50,6 +50,26 @@ Tasks :
 - User baru (gunakan user barunya untuk semua konfigurasi ansible)
      
 Answer :
+  
      
+PROMETHEUS + GRAFANA
      
+Docker Images :
+[node-exporter](https://hub.docker.com/r/prom/node-exporter)
+[Prometheus](https://hub.docker.com/r/prom/prometheus)
+[Grafana Dashboard](https://hub.docker.com/r/grafana/grafana)
+
+
+Tasks :
      
+- Setup node-exporter, prometheus dan Grafana menggunakan docker
+- install node-exporter di appserver & gateway
+- Dengan Grafana, buatlah :
+    -  Dashboard untuk monitor resource server (CPU, RAM & Disk Usage)
+    -  Buat alerting dengan Contact Point pilihan kalian (discord, telegram, slack dkk)
+    -  Untuk alert :
+         - CPU Usage over 20%
+         - RAM Usage over 75%
+
+     
+ Answer:
