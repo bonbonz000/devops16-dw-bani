@@ -58,6 +58,11 @@ Tasks :
 - User baru (gunakan user barunya untuk semua konfigurasi ansible)
      
 Answer :
+
+ Setup inventory dan ansible dengan SSH key
+     
+![3](https://user-images.githubusercontent.com/91004163/236711834-538efe11-38f8-4682-809f-6bcf4aae2724.PNG)
+
   
      
 PROMETHEUS + GRAFANA
