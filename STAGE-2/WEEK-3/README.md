@@ -59,6 +59,10 @@ Tasks :
      
 Answer :
 
+Docker installation config
+
+![image](https://user-images.githubusercontent.com/91004163/236724701-6372f51e-d292-480c-9b10-76e656951725.png)
+     
  Setup inventory dan ansible dengan SSH key
      
 ![3](https://user-images.githubusercontent.com/91004163/236711834-538efe11-38f8-4682-809f-6bcf4aae2724.PNG)
