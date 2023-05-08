@@ -63,7 +63,10 @@ Answer :
      
 ![3](https://user-images.githubusercontent.com/91004163/236711834-538efe11-38f8-4682-809f-6bcf4aae2724.PNG)
 
-  
+ Playbook gateway
+     
+![4](https://user-images.githubusercontent.com/91004163/236712009-a1057e23-0f32-4cbd-9a20-33e045d4e4a9.PNG)
+
      
 PROMETHEUS + GRAFANA
      
