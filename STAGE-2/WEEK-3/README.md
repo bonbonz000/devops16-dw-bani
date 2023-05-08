@@ -66,7 +66,16 @@ Answer :
  Playbook gateway
      
 ![4](https://user-images.githubusercontent.com/91004163/236712009-a1057e23-0f32-4cbd-9a20-33e045d4e4a9.PNG)
+     
+ run nginx
 
+![5](https://user-images.githubusercontent.com/91004163/236712542-573d262b-a3ff-40a6-a322-5efd8b57050b.PNG)
+     
+
+access nginx
+
+![6](https://user-images.githubusercontent.com/91004163/236712550-ad5725fd-89f8-4c74-9861-cd2187588f33.PNG)
+     
      
 PROMETHEUS + GRAFANA
      
