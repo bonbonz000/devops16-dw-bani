@@ -107,3 +107,7 @@ Tasks :
 
      
  Answer:
+
+ Setup node-exporter, prometheus dan Grafana menggunakan docker
+     
+ ![9](https://user-images.githubusercontent.com/91004163/236971912-f770f7d6-02d5-43f9-9fb1-fcce455d1380.PNG)
