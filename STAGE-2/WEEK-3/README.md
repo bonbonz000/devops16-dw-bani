@@ -13,6 +13,9 @@ dashboard.<nama>.studentdumbways.my.id
 <nama>.studentdumbways.my.id
 
 Answer:
+     
+![dns record](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/9cc44b57-932c-4ad9-a840-8fdec36c45e4)
+
 
 TERRAFORM
 
