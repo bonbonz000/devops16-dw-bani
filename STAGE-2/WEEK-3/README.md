@@ -63,12 +63,22 @@ Docker installation config
 
 ![image](https://user-images.githubusercontent.com/91004163/236724701-6372f51e-d292-480c-9b10-76e656951725.png)
      
-pplaybook Docker
+Ansible Aplikasi wayshub
+
+![image](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/d8afa3ac-d1d5-47f5-ac97-b66c586026d9)
+
+     
+aplikasi wayshub running
+     
+![ansible deploy 4](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/d1e88583-8f3d-4185-b1e8-fc030d7d507c)
+     
+     
+playbook Docker
   
 ![image](https://user-images.githubusercontent.com/91004163/236728240-942fdd74-a4c2-403c-8fe7-93b818449179.png)
 
      
- Setup inventory dan ansible dengan SSH key
+Setup inventory dan ansible dengan SSH key
      
 ![3](https://user-images.githubusercontent.com/91004163/236711834-538efe11-38f8-4682-809f-6bcf4aae2724.PNG)
 
@@ -111,3 +121,10 @@ Tasks :
  Setup node-exporter, prometheus dan Grafana menggunakan docker
      
  ![9](https://user-images.githubusercontent.com/91004163/236971912-f770f7d6-02d5-43f9-9fb1-fcce455d1380.PNG)
+     
+ install node-exporter di appserver & gateway
+     
+![node exp 1](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/216825f7-ac88-488e-b88f-021da2c1cec8)
+     
+![node exp 2](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/78eb38e1-36cb-4fb9-b498-2f8cd8728fb0)
+
