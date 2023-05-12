@@ -136,6 +136,16 @@ Tasks :
 Dashboard untuk monitor resource server (CPU, RAM & Disk Usage)
 
 ![grafana 1](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/c4c4104c-be69-4c0f-b401-46bbd0a8f1f3)
+     
+     
+ Alerting Telegram
+     
+![bot tele1](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/03b63aa5-2ce8-4ddc-859a-ac299abb7677)
+
+![bot tele2](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/10a797b1-816d-47cc-a2c2-0ad691de74e2)
+
+![bot tele3](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/8ef172bb-d0bb-4afd-bc9f-e79d0cdf1e60)
+
 
      
 
