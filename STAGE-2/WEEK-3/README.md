@@ -133,5 +133,10 @@ Tasks :
      
 ![image](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/36fb76a2-0834-41b7-a0ff-8d39d0b8f9bc)
      
+Dashboard untuk monitor resource server (CPU, RAM & Disk Usage)
+
+![grafana 1](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/c4c4104c-be69-4c0f-b401-46bbd0a8f1f3)
+
+     
 
 
