@@ -145,6 +145,15 @@ Dashboard untuk monitor resource server (CPU, RAM & Disk Usage)
 ![bot tele2](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/10a797b1-816d-47cc-a2c2-0ad691de74e2)
 
 ![bot tele3](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/8ef172bb-d0bb-4afd-bc9f-e79d0cdf1e60)
+     
+Alerting rules gateway and App
+     
+![alerting rules 0 0](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/3ee7f14e-a882-43a8-8cc2-77d942b15311)
+     
+![alerting rules 0](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/99e52e67-dcbe-494b-93ba-a1ee5dc2bb24)
+     
+![alerting rules 1](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/b20f1a68-465d-4dac-acf5-ab57078424c6)
+
 
 
      
