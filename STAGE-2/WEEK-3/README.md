@@ -130,4 +130,8 @@ Tasks :
 ![node exp 1](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/216825f7-ac88-488e-b88f-021da2c1cec8)
      
 ![node exp 2](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/78eb38e1-36cb-4fb9-b498-2f8cd8728fb0)
+     
+![image](https://github.com/bonbonz000/devops16-dw-bani/assets/91004163/36fb76a2-0834-41b7-a0ff-8d39d0b8f9bc)
+     
+
 
